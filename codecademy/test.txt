@@ -12,3 +12,6 @@ git log - list of changes in the repo
 git commit -m "TEXT" - commit with the message of the commit
 git status - the status of the current repo changes if any
 
+git show HEAD - shows the latest commit 
+git checkout HEAD [filename] - reverts the file to the last commit
+
