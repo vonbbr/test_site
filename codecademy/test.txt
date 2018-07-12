@@ -3,3 +3,12 @@ this is a test of the git system.
 this is a test of the tracking feature of git
 
 modify message
+
+git diff - change in file from saved repo
+git init - start repo
+git add - add directory or file to repo
+git commit - commit the changes to the repo
+git log - list of changes in the repo
+git commit -m "TEXT" - commit with the message of the commit
+git status - the status of the current repo changes if any
+
