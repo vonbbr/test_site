@@ -14,4 +14,6 @@ git status - the status of the current repo changes if any
 
 git show HEAD - shows the latest commit 
 git checkout HEAD [filename] - reverts the file to the last commit
+git reset HEAD [filename] - reverts the file to the last commit and unstages any added info. 
+git reset [commit-SHA](7) - resets the HEAD commit to the SHA code of the requested commit, only need the first 7 chars for the reset
 
