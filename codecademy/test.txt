@@ -22,5 +22,7 @@ git branch [name] - creates new branch off the current master branch
 git checkout [branch name] - switches to the named branch
 git merge [branch name] - merges the branch named with the master branch
 git branch -d [branch name] - deletes the branch named
+git branch -D [branch name] - forces the deletion of a branch 
+
 
 
