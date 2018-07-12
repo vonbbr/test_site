@@ -20,3 +20,8 @@ git reset [commit-SHA](7) - resets the HEAD commit to the SHA code of the reques
 git branch - tells the current branch of the repo you are currently on
 git branch [name] - creates new branch off the current master branch 
 git checkout [branch name] - switches to the named branch
+git merge [branch name] - merges the branch named with the master branch
+
+
+
+
