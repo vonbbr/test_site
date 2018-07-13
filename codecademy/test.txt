@@ -24,5 +24,6 @@ git merge [branch name] - merges the branch named with the master branch
 git branch -d [branch name] - deletes the branch named
 git branch -D [branch name] - forces the deletion of a branch 
 
+git clone [remote_location] [clone_name] - remote location is the location of the repo either remotely or locally. git_clone is the new name of the copied repo
 
 
