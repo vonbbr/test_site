@@ -26,4 +26,6 @@ git branch -D [branch name] - forces the deletion of a branch
 
 git clone [remote_location] [clone_name] - remote location is the location of the repo either remotely or locally. git_clone is the new name of the copied repo
 
+git remote -v - shows the remote connections for the online repo
+
 
