@@ -31,5 +31,7 @@ rm -r [directory] - forces the removal of a directory
 git rm -r removes the directory from the repo list
 *must answer "yes" to the terminal questions asking for approval of deletion
 
+git push origin master - pushes the changes of a github repo to your github account's repo
+
 
 
