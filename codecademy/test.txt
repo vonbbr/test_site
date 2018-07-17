@@ -33,5 +33,7 @@ git rm -r removes the directory from the repo list
 
 git push origin master - pushes the changes of a github repo to your github account's repo
 
+git remote add origin [github:new repo] - adds a new repo to the online github account repo listing 
+
 
 
