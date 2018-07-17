@@ -35,5 +35,8 @@ git push origin master - pushes the changes of a github repo to your github acco
 
 git remote add origin [github:new repo] - adds a new repo to the online github account repo listing 
 
+git remote remove [name] - removes the selected remote
+git remote rename [name] [new name] - renames the remote
+git remote show origin - shows the branch pushing origins and info
 
 
